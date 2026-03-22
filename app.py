@@ -10,7 +10,7 @@ st.set_page_config(layout="wide", page_title="TikTok Creative Dashboard")
 # =========================
 # Load Data
 # =========================
-df = pd.read_excel("/home/mazed/Downloads/preprocessed_file.xlsx")
+df = pd.read_excel("preprocessed_file.xlsx")
 
 # =========================
 # Ensure Numeric Columns
